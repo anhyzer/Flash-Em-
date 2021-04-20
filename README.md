@@ -1,2 +1,2 @@
 # FlashCard
-Flash Card Application - generates randomized flash cards from selected csv file.
+Flash Card Application - generates sorted flash cards from selected csv file.
